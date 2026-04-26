@@ -1,0 +1,162 @@
+[
+    {
+        "id": "1",
+        "name": "Quick Garlic Butter Chicken",
+        "ingredients": ["chicken breast", "garlic", "butter", "lemon", "parsley", "black pepper"],
+        "instructions": "1. Slice chicken. 2. Sauté garlic in butter. 3. Cook chicken until gold. 4. Drizzle with lemon.",
+        "prep_time": 5, "cook_time": 10,
+        "nutrition": {"calories": 320, "protein": 35, "carbohydrates": 2, "fat": 18, "fiber": 0.5}
+    },
+    {
+        "id": "2",
+        "name": "Mediterranean Chickpea Salad",
+        "ingredients": ["chickpeas", "cucumber", "cherry tomatoes", "feta", "red onion", "olive oil"],
+        "instructions": "1. Rinse chickpeas. 2. Dice veggies. 3. Mix with olive oil and feta cheese.",
+        "prep_time": 10, "cook_time": 0,
+        "nutrition": {"calories": 280, "protein": 12, "carbohydrates": 25, "fat": 15, "fiber": 8}
+    },
+    {
+        "id": "3",
+        "name": "Pan-Seared Salmon & Asparagus",
+        "ingredients": ["salmon fillet", "asparagus", "olive oil", "lemon juice", "garlic powder"],
+        "instructions": "1. Season salmon. 2. Pan-fry salmon for 4 mins each side. 3. Sauté asparagus in same pan.",
+        "prep_time": 5, "cook_time": 12,
+        "nutrition": {"calories": 450, "protein": 40, "carbohydrates": 5, "fat": 28, "fiber": 3}
+    },
+    {
+        "id": "4",
+        "name": "Paneer Butter Masala",
+        "ingredients": ["paneer", "tomatoes", "cashews", "cream", "garam masala", "butter", "ginger-garlic paste"],
+        "instructions": "1. Blend tomatoes and cashews. 2. Sauté ginger-garlic in butter. 3. Simmer sauce with spices. 4. Add paneer cubes and cream.",
+        "prep_time": 15, "cook_time": 20,
+        "nutrition": {"calories": 420, "protein": 18, "carbohydrates": 12, "fat": 34, "fiber": 2}
+    },
+    {
+        "id": "5",
+        "name": "South Indian Dosa with Sambar",
+        "ingredients": ["rice", "urad dal", "toor dal", "mustard seeds", "curry leaves", "tamarind", "sambar powder"],
+        "instructions": "1. Soak rice and dal, then ferment. 2. Spread batter on hot griddle. 3. Prepare sambar by boiling dal and veggies with tamarind and spices.",
+        "prep_time": 480, "cook_time": 20,
+        "nutrition": {"calories": 350, "protein": 10, "carbohydrates": 65, "fat": 6, "fiber": 8}
+    },
+    {
+        "id": "6",
+        "name": "Classic Chicken Biryani",
+        "ingredients": ["basmati rice", "chicken", "yogurt", "saffron", "onions", "mint", "cardamom", "cloves"],
+        "instructions": "1. Marinate chicken in yogurt and spices. 2. Parboil rice. 3. Layer chicken and rice with saffron water and fried onions. 4. Cook on low heat (Dum).",
+        "prep_time": 30, "cook_time": 45,
+        "nutrition": {"calories": 550, "protein": 35, "carbohydrates": 70, "fat": 15, "fiber": 4}
+    },
+    {
+        "id": "7",
+        "name": "Crispy Onion Pakoras",
+        "ingredients": ["onions", "besan", "rice flour", "green chillies", "ajwain", "turmeric", "oil"],
+        "instructions": "1. Slice onions thin. 2. Mix with flours and spices to form a thick batter. 3. Deep fry small portions until golden brown.",
+        "prep_time": 10, "cook_time": 15,
+        "nutrition": {"calories": 220, "protein": 6, "carbohydrates": 28, "fat": 10, "fiber": 4}
+    },
+    {
+        "id": "8",
+        "name": "Authentic Hummus with Pita",
+        "ingredients": ["chickpeas", "tahini", "lemon", "garlic", "olive oil", "cumin", "pita bread"],
+        "instructions": "1. Blend chickpeas with tahini, lemon, and garlic until smooth. 2. Serve with a pool of olive oil and warm pita.",
+        "prep_time": 10, "cook_time": 0,
+        "nutrition": {"calories": 310, "protein": 11, "carbohydrates": 40, "fat": 14, "fiber": 9}
+    },
+    {
+        "id": "9",
+        "name": "Thai Pad Thai",
+        "ingredients": ["rice noodles", "shrimp", "peanuts", "bean sprouts", "eggs", "tamarind paste", "fish sauce"],
+        "instructions": "1. Soak noodles. 2. Stir-fry shrimp and eggs. 3. Add noodles and tamarind-sugar sauce. 4. Top with crushed peanuts and sprouts.",
+        "prep_time": 15, "cook_time": 10,
+        "nutrition": {"calories": 480, "protein": 22, "carbohydrates": 65, "fat": 16, "fiber": 4}
+    },
+    {
+        "id": "10",
+        "name": "Guacamole & Homemade Corn Chips",
+        "ingredients": ["avocado", "lime", "cilantro", "onion", "jalapeno", "corn tortillas", "sea salt"],
+        "instructions": "1. Mesh avocados with lime and diced onion/cilantro. 2. Slice tortillas and bake until crisp for healthy chips.",
+        "prep_time": 10, "cook_time": 10,
+        "nutrition": {"calories": 340, "protein": 5, "carbohydrates": 30, "fat": 25, "fiber": 12}
+    },
+    {
+        "id": "11",
+        "name": "Japanese Ramen with Soft Egg",
+        "ingredients": ["ramen noodles", "pork belly", "soy sauce", "mirin", "soft-boiled egg", "nori", "miso"],
+        "instructions": "1. Prepare broth with miso and dashi. 2. Sear pork belly slices. 3. Assemble bowl with noodles, broth, pork, and half an egg.",
+        "prep_time": 20, "cook_time": 40,
+        "nutrition": {"calories": 620, "protein": 30, "carbohydrates": 55, "fat": 28, "fiber": 3}
+    },
+    {
+        "id": "12",
+        "name": "Palak Paneer",
+        "ingredients": ["spinach", "paneer", "cumin seeds", "ginger", "green chillies", "cream", "garam masala"],
+        "instructions": "1. Blanch and puree spinach. 2. Sauté ginger and chillies. 3. Add spinach and paneer cubes. 4. Finish with a touch of cream.",
+        "prep_time": 20, "cook_time": 15,
+        "nutrition": {"calories": 380, "protein": 19, "carbohydrates": 10, "fat": 30, "fiber": 6}
+    },
+    {
+        "id": "13",
+        "name": "Butter Chicken (Murgh Makhani)",
+        "ingredients": ["chicken legs", "yogurt", "tomato puree", "butter", "kasuri methi", "heavy cream", "honey"],
+        "instructions": "1. Roast marinated chicken. 2. Make a rich tomato-butter sauce. 3. Simmer chicken in sauce. 4. Garnish with methi.",
+        "prep_time": 60, "cook_time": 30,
+        "nutrition": {"calories": 510, "protein": 32, "carbohydrates": 15, "fat": 38, "fiber": 2}
+    },
+    {
+        "id": "14",
+        "name": "Rajma Chawal (Kidney Bean Curry)",
+        "ingredients": ["kidney beans", "basmati rice", "onions", "tomatoes", "bay leaf", "cinnamon", "ginger"],
+        "instructions": "1. Pressure-cook beans. 2. Sauté onions and tomatoes with spices. 3. Simmer beans in the gravy. 4. Serve with steamed rice.",
+        "prep_time": 480, "cook_time": 30,
+        "nutrition": {"calories": 440, "protein": 20, "carbohydrates": 75, "fat": 8, "fiber": 15}
+    },
+    {
+        "id": "15",
+        "name": "Falafel Wrap with Tahini",
+        "ingredients": ["chickpeas", "parsley", "coriander", "garlic", "flour", "pita", "hummus", "tahini sauce"],
+        "instructions": "1. Process chickpeas and herbs, form balls, and fry. 2. Spread hummus on pita. 3. Add falafel and drizzle with tahini.",
+        "prep_time": 15, "cook_time": 15,
+        "nutrition": {"calories": 390, "protein": 14, "carbohydrates": 48, "fat": 18, "fiber": 10}
+    },
+    {
+        "id": "16",
+        "name": "Shakshuka (Poached Eggs in Tomato Sauce)",
+        "ingredients": ["eggs", "tomatoes", "red bell pepper", "onion", "paprika", "cumin", "feta cheese"],
+        "instructions": "1. Sauté peppers and onions. 2. Add crushed tomatoes and spices. 3. Crack eggs into the sauce and simmer until set.",
+        "prep_time": 10, "cook_time": 15,
+        "nutrition": {"calories": 280, "protein": 18, "carbohydrates": 15, "fat": 16, "fiber": 4}
+    },
+    {
+        "id": "17",
+        "name": "Idli with Coconut Chutney",
+        "ingredients": ["parboiled rice", "urad dal", "poha", "fenugreek seeds", "fresh coconut", "mustard seeds", "green chillies"],
+        "instructions": "1. Grind fermented batter. 2. Steam idlis in molds. 3. Grind coconut chutney with chillies and ginger, then temper.",
+        "prep_time": 600, "cook_time": 15,
+        "nutrition": {"calories": 300, "protein": 9, "carbohydrates": 60, "fat": 5, "fiber": 7}
+    },
+    {
+        "id": "18",
+        "name": "Vietnamese Beef Pho",
+        "ingredients": ["beef sirloin", "rice sticks", "star anise", "cinnamon", "ginger", "onions", "bean sprouts", "thai basil"],
+        "instructions": "1. Simmer beef bones with spices for hours. 2. Thinly slice raw beef. 3. Pour hot broth over noodles and raw beef to cook instantly.",
+        "prep_time": 30, "cook_time": 120,
+        "nutrition": {"calories": 450, "protein": 35, "carbohydrates": 45, "fat": 12, "fiber": 4}
+    },
+    {
+        "id": "19",
+        "name": "Paneer Tikka (Grilled)",
+        "ingredients": ["paneer", "yogurt", "kashmiri mirch", "lemon", "onions", "capsicum", "mustard oil"],
+        "instructions": "1. Marinate paneer and veggies in spiced yogurt. 2. Skewer them. 3. Grill or bake until charred.",
+        "prep_time": 30, "cook_time": 15,
+        "nutrition": {"calories": 320, "protein": 16, "carbohydrates": 8, "fat": 25, "fiber": 2}
+    },
+    {
+        "id": "20",
+        "name": "Gobi Manchurian (Indo-Chinese)",
+        "ingredients": ["cauliflower", "all-purpose flour", "corn flour", "soy sauce", "chilli sauce", "spring onions", "ginger"],
+        "instructions": "1. Batter-fry cauliflower florets. 2. Prepare a spicy soy-based glaze. 3. Toss fried cauliflower in the glaze.",
+        "prep_time": 15, "cook_time": 15,
+        "nutrition": {"calories": 260, "protein": 7, "carbohydrates": 35, "fat": 12, "fiber": 5}
+    }
+]
